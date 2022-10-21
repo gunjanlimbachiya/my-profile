@@ -42,7 +42,6 @@ header {
   position: relative;
   min-height: 230px;
   z-index: 1;
-  background-image: url("../images/bg-header.jpg");
   background-size: cover;
 }
 header .overlay {
